@@ -1,1 +1,6 @@
-He like sweets
+#!/bin/bash
+
+echo "Enter the input: "
+read input
+
+echo "$input"
